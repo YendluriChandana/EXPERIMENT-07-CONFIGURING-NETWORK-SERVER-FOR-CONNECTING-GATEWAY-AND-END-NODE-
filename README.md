@@ -1,4 +1,7 @@
- ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
+## NAME: YENDLURI CHANDANA
+## REG NO: 212223100063
+
+ # EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
  
 ## Aim: To  configure  the Network server and end device for traferring data on the network
 ## Components required: end node stm 32 development kit , dragino LPS8, network server 
@@ -47,8 +50,26 @@ To set APP Key
 
 
 ## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
+![image](https://github.com/user-attachments/assets/b20ffd1d-639e-47e1-a499-1794ed17c24d)
 
+## GATEWAY:
+
+![image](https://github.com/user-attachments/assets/818081dc-9aa4-47ca-96a1-2dcb99b2fc76)
+
+## CHANNEL CREATION:
+
+![image](https://github.com/user-attachments/assets/2f165e08-3af3-4c89-a3e4-ae82ec3ec6cf)
+
+## END DEVICE:
+
+![image](https://github.com/user-attachments/assets/0f8cac78-6694-43c1-ba2c-28354e54601e)
+
+## PAYLOAD FORMATTERS: 
+
+![image](https://github.com/user-attachments/assets/a7150397-75ff-4669-b5f5-2c64ecceee76)
+
+
+![image](https://github.com/user-attachments/assets/1b211bb2-9af9-4194-b206-3fb8ce79421e)
 
 
 
